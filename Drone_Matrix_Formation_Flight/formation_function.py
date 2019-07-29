@@ -834,7 +834,7 @@ def get_vehicle_state(vehicle):
     print('     Groundspeed: {} m/s'.format(vehicle.groundspeed)) # Current groundspeed in metres/second (double).This attribute is settable. The set value is the default target groundspeed when moving the vehicle using simple_goto() (or other position-based movement commands).
     print('     Airspeed: {} m/s'.format(vehicle.airspeed)) # Current airspeed in metres/second (double).This attribute is settable. The set value is the default target airspeed when moving the vehicle using simple_goto() (or other position-based movement commands).
 
-#===================================================
+#====================================================
 
 
 
